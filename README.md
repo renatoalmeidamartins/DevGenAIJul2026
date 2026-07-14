@@ -25,3 +25,5 @@
 - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [Prompt engineering inside "generic" AWS doc](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Intelligent prompt routing](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html) allows you to expose a single endpoint and let Bedrock choose between two models from the same provider (one simpler, one more complex) based on the complexity of the task and the likelihood of similar answers in both models.
+- [ReAct - reasoning and action on LLMs](https://arxiv.org/pdf/2210.03629)
+- [ReWOO - reasoning without observation](https://arxiv.org/pdf/2305.18323)
