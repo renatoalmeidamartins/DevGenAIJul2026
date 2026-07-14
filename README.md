@@ -13,3 +13,4 @@
 - [Transformers in GenAI](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025)
+- [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
