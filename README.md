@@ -32,3 +32,6 @@
 - [Provisioned throughput](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
 - [Batch inference](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference.html)
 - [Application inference profiles](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-create.html), useful for tracking usage and granting acces
+- [Prompt caching in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html#prompt-caching-models), supported by Anthropic's models and Amazon Nova series.
+- [Blog covering prompt caching](https://aws.amazon.com/blogs/machine-learning/effectively-use-prompt-caching-on-amazon-bedrock/)
+- [Announcement of 1-hour TTL support for caching in Anthropic's models](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-one-hour-duration-prompt-caching/)
