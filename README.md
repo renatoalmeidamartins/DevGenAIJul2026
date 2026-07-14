@@ -17,3 +17,5 @@
 - [Influence response generation with inference parameters](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html)
 - [Converse and ConverseStream](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference.html) are improvements over the InvokeModel and InvokeModelWithResponseStream, as they provide a consistent API. With the InvokeModel*, you need to format the model parameters in a way that is model-specific.
 - [Bedrock-mantle endpoint](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/), introduced to offer full compatibility with the "de facto" standards for LLM interactions (OpenAI's Chat completions and Responses APIs, as well as Anthropic's Messages API). 
+- [Bedrock Data Automation](https://docs.aws.amazon.com/bedrock/latest/userguide/bda.html)
+- [BDA sample notebooks](https://github.com/aws-samples/sample-document-processing-with-amazon-bedrock-data-automation)
