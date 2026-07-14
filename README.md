@@ -31,3 +31,4 @@
 - [Amazon Bedrock introduces new advanced prompt optimization and migration tool](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/)
 - [Provisioned throughput](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
 - [Batch inference](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference.html)
+- [Application inference profiles](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-create.html), useful for tracking usage and granting acces
