@@ -38,3 +38,4 @@
 - [Lambda durable functions](https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/)
 - [Lambda durable functions vs Step Functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-step-functions.html)
 - [contents that can be used in the messages section: document, image, cachePoint](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference.html)
+- [TTL in DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html)
