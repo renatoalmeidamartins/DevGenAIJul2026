@@ -1,5 +1,7 @@
 # DevGenAIJul2026
 
+# Someone had the host role assigned when my PC crashed. He/she left and the meeting ended. Sincere apologies.
+
 ## Class and course book links
 - [Lab and coursebook access](https://us-east-1.student.classrooms.aws.training/class/ilt%23k2k2Hrr9PGJTdB2uWSpiRE)
 - [Skill builder, with access to hundreds of courseware, free and subscription-based](https://skillbuilder.aws/)
