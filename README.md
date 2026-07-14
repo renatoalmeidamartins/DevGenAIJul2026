@@ -1,0 +1,1 @@
+# DevGenAIJul2026
