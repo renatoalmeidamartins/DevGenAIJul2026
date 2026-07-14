@@ -20,3 +20,7 @@
 - [Bedrock Data Automation](https://docs.aws.amazon.com/bedrock/latest/userguide/bda.html)
 - [BDA sample notebooks](https://github.com/aws-samples/sample-document-processing-with-amazon-bedrock-data-automation)
 - [LLM-as-a-Judge uses prompts to generate the metrics](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-metrics.html). Bedrock has a lot of [built-in prompts](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
+- [Bedrock prompting best practices](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [Prompt engineering defined by AWS](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-prompt-engineering.html)
+- [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Prompt engineering inside "generic" AWS doc](https://aws.amazon.com/what-is/prompt-engineering/)
