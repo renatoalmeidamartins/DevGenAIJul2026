@@ -8,3 +8,5 @@
 - [Database migration service walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
 - [Migrating genai workloads to bedrock through Transform](https://aws.amazon.com/blogs/migration-and-modernization/migrate-your-ai-workloads-to-amazon-bedrock-with-aws-transform/)
 - [Agentic AI capabilities built into AWS Transform to improve migrations](https://aws.amazon.com/blogs/migration-and-modernization/accelerating-cloud-migration-with-aws-transform-and-generative-ai/)
+- [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Neural Network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
