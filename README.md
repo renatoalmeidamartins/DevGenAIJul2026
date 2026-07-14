@@ -15,3 +15,4 @@
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025)
 - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 - [Influence response generation with inference parameters](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html)
+- [Converse and ConverseStream](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference.html) are improvements over the InvokeModel and InvokeModelWithResponseStream, as they provide a consistent API. With the InvokeModel*, you need to format the model parameters in a way that is model-specific.
