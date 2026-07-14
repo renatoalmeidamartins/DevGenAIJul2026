@@ -29,4 +29,5 @@
 - [ReWOO - reasoning without observation](https://arxiv.org/pdf/2305.18323)
 - [Improve the relevance of query responses with a reranker model in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/rerank.html)
 - [Amazon Bedrock introduces new advanced prompt optimization and migration tool](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/)
-- 
+- [Provisioned throughput](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
+- [Batch inference](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference.html)
