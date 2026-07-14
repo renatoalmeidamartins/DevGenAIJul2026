@@ -27,3 +27,4 @@
 - [Intelligent prompt routing](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html) allows you to expose a single endpoint and let Bedrock choose between two models from the same provider (one simpler, one more complex) based on the complexity of the task and the likelihood of similar answers in both models.
 - [ReAct - reasoning and action on LLMs](https://arxiv.org/pdf/2210.03629)
 - [ReWOO - reasoning without observation](https://arxiv.org/pdf/2305.18323)
+- [Improve the relevance of query responses with a reranker model in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/rerank.html)
