@@ -19,3 +19,4 @@
 - [Bedrock-mantle endpoint](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/), introduced to offer full compatibility with the "de facto" standards for LLM interactions (OpenAI's Chat completions and Responses APIs, as well as Anthropic's Messages API). 
 - [Bedrock Data Automation](https://docs.aws.amazon.com/bedrock/latest/userguide/bda.html)
 - [BDA sample notebooks](https://github.com/aws-samples/sample-document-processing-with-amazon-bedrock-data-automation)
+- [LLM-as-a-Judge uses prompts to generate the metrics](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-metrics.html). Bedrock has a lot of [built-in prompts](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
