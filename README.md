@@ -54,3 +54,6 @@
 - [Langchain repo](https://github.com/langchain-ai/langchain)
 - [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html) in programmatic evaluation
 - Ragas [github repo](https://github.com/vibrantlabsai/ragas) and [bulti-in metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
+- [Evaluator prompts used in RAG evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
+- [New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock](https://aws.amazon.com/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/)
+- [Evaluate models or RAG systems using Amazon Bedrock Evaluations – Now generally available](https://aws.amazon.com/blogs/machine-learning/evaluate-models-or-rag-systems-using-amazon-bedrock-evaluations-now-generally-available/)
