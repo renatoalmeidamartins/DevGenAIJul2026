@@ -91,3 +91,7 @@
 - [CrewAI quicktstart without the CLI](https://docs.crewai.com/v1.15.2/en/concepts/agents#direct-code-definition)
 - [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
 - [Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
+- [Docker hub rate limitng](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/), which led to the creation of the [ECR Public gallery](https://gallery.ecr.aws/)
+- [Agentcore high level architecture](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- Instead of calling [list tools](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-list.html), returning all available tools, we have in agentcore gateway, a way to [search tools](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html) using a natural language query.
