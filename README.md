@@ -46,4 +46,5 @@
 - [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)
 - [Vector store integrations in Langchain](https://docs.langchain.com/oss/python/integrations/vectorstores), just to highlight that there are many options for storing your vectors. It is certainly not an exhaustive, only the ones natively integrated with Langchain
 - [Create a knowledge base by connecting to a data source in Amazon Bedrock Knowledge Bases](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-create.html)
-- [CreateKnowledgeBase](https://docs.aws.amazon.com/pt_br/bedrock/latest/APIReference/API_agent_CreateKnowledgeBase.html), notice that it comes from the [bedrock-agent](https://docs.aws.amazon.com/cli/latest/reference/bedrock-agent/) API 
+- [CreateKnowledgeBase](https://docs.aws.amazon.com/pt_br/bedrock/latest/APIReference/API_agent_CreateKnowledgeBase.html), notice that it comes from the [bedrock-agent](https://docs.aws.amazon.com/cli/latest/reference/bedrock-agent/) API
+- [Amazon Bedrock Knowledge Bases now supports hybrid search](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-hybrid-search/), just a matter of setting a value for ``overrideSearchType`` in the ``knowledgeBaseConfiguration`` section of the call
