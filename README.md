@@ -48,3 +48,7 @@
 - [Create a knowledge base by connecting to a data source in Amazon Bedrock Knowledge Bases](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-create.html)
 - [CreateKnowledgeBase](https://docs.aws.amazon.com/pt_br/bedrock/latest/APIReference/API_agent_CreateKnowledgeBase.html), notice that it comes from the [bedrock-agent](https://docs.aws.amazon.com/cli/latest/reference/bedrock-agent/) API
 - [Amazon Bedrock Knowledge Bases now supports hybrid search](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-hybrid-search/), just a matter of setting a value for ``overrideSearchType`` in the ``knowledgeBaseConfiguration`` section of the call
+- [Rerank on the bedrock-agent endpoint](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_agent-runtime_Rerank.html)
+- [Integrations available in Langchain](https://docs.langchain.com/oss/python/integrations/providers/overview)
+- [RetrieveAngGenreate](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_agent-runtime_RetrieveAndGenerate.html), pay attention to the filters section
+- [Langchain repo](https://github.com/langchain-ai/langchain)
