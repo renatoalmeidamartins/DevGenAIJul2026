@@ -98,3 +98,5 @@
 - [Built-in long-term memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html), pay special attention to the prompts used for each strategy
 - [Agentcore policy](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html)
 - [Prompts for agentcore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
+- [Agentcore cli](https://github.com/aws/agentcore-cli)
+- [Repo full with Strands SDK samples](https://github.com/strands-agents/samples)
