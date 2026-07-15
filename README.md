@@ -89,3 +89,4 @@
 - [Agent class in langchain](https://docs.langchain.com/oss/python/langchain/agents)
 - [CrewAI getting started using the CLI](https://docs.crewai.com/v1.15.2/en/guides/crews/first-crew)
 - [CrewAI quicktstart without the CLI](https://docs.crewai.com/v1.15.2/en/concepts/agents#direct-code-definition)
+- [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
