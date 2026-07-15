@@ -44,3 +44,4 @@
 - [Amazon Nova Multimodal Embeddings: State-of-the-art embedding model for agentic RAG and semantic search](https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/)
 - [Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
 - [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)
+- [Vector store integrations in Langchain](https://docs.langchain.com/oss/python/integrations/vectorstores), just to highlight that there are many options for storing your vectors. It is certainly not an exhaustive, only the ones natively integrated with Langchain
