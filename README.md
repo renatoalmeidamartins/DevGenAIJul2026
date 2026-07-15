@@ -73,3 +73,13 @@
 - [Strands agents quick start](https://strandsagents.com/docs/user-guide/quickstart/python/)
 - [Strands agent github repo](https://github.com/strands-agents)
 - [Strnads agents built-in-tools](https://github.com/strands-agents/tools)
+- [MCP architecture](https://modelcontextprotocol.io/docs/learn/architecture)
+- MCP Servers list
+  - [An old commit, how it used to be kept by the MCP community, an infintie list of servers](https://github.com/modelcontextprotocol/servers/blob/599b170e9d750326c069ae87fd5991b099fb964a/README.md)
+  - [Currently, MCP community has a curated list of resources, including links to server lists](https://github.com/modelcontextprotocol/servers)
+    - [mcpservers.com server list](https://mcpservers.com/)
+    - [Another curated server list based on number of starts for their repos](https://github.com/apappascs/mcp-servers-hub)
+  - [MCP registry](https://registry.modelcontextprotocol.io/)
+- [MCP registry in agent core](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
+- [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [A2A landing page](https://a2a-protocol.org/latest/)
