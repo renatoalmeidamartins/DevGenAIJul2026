@@ -90,3 +90,4 @@
 - [CrewAI getting started using the CLI](https://docs.crewai.com/v1.15.2/en/guides/crews/first-crew)
 - [CrewAI quicktstart without the CLI](https://docs.crewai.com/v1.15.2/en/concepts/agents#direct-code-definition)
 - [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
