@@ -1,5 +1,10 @@
 # DevGenAIJul2026
 
+# Please don't forget to fill the survey
+
+## My contact details
+- [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- Email: renatoalmeidamartins@gmail.com
 ## Class and course book links
 - [Lab and coursebook access](https://us-east-1.student.classrooms.aws.training/class/ilt%23k2k2Hrr9PGJTdB2uWSpiRE)
 - [Skill builder, with access to hundreds of courseware, free and subscription-based](https://skillbuilder.aws/)
