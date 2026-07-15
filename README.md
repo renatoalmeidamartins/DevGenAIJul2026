@@ -57,3 +57,5 @@
 - [Evaluator prompts used in RAG evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
 - [New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock](https://aws.amazon.com/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/)
 - [Evaluate models or RAG systems using Amazon Bedrock Evaluations – Now generally available](https://aws.amazon.com/blogs/machine-learning/evaluate-models-or-rag-systems-using-amazon-bedrock-evaluations-now-generally-available/)
+- [Latency-optimized inference](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html), available with selected models
+- [Optimizing AI responsiveness: A practical guide to Amazon Bedrock latency-optimized inference](https://aws.amazon.com/blogs/machine-learning/optimizing-ai-responsiveness-a-practical-guide-to-amazon-bedrock-latency-optimized-inference/)
