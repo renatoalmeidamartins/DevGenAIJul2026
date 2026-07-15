@@ -39,3 +39,8 @@
 - [Lambda durable functions vs Step Functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-step-functions.html)
 - [contents that can be used in the messages section: document, image, cachePoint](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference.html)
 - [TTL in DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html)
+## Day 2 links
+- [Dive deep into vector data stores using Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-vector-data-stores-using-amazon-bedrock-knowledge-bases/)
+- [Amazon Nova Multimodal Embeddings: State-of-the-art embedding model for agentic RAG and semantic search](https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/)
+- [Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+- [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)
