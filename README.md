@@ -1,6 +1,6 @@
 # DevGenAIJul2026
 
-# Please don't forget to fill the survey, through [Myclass -> past classes](https://myclass.skillbuilder.aws/), or in the email you received.
+## Please don't forget to fill the survey, through [Myclass -> past classes](https://myclass.skillbuilder.aws/), or in the email you received confirming course completion. Through myclass, you can also get the class certiicate
 
 ## My contact details
 - [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
