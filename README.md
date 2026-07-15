@@ -96,3 +96,4 @@
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - Instead of calling [list tools](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-list.html), returning all available tools, we have in agentcore gateway, a way to [search tools](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html) using a natural language query.
 - [Built-in long-term memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html), pay special attention to the prompts used for each strategy
+- [Agentcore policy](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html)
