@@ -84,3 +84,8 @@
 - [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 - [A2A landing page](https://a2a-protocol.org/latest/)
 - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+- [Microsoft Agent framework](https://github.com/microsoft/agent-framework)
+- [LangGraph quickstart](https://docs.langchain.com/oss/python/langgraph/quickstart)
+- [Agent class in langchain](https://docs.langchain.com/oss/python/langchain/agents)
+- [CrewAI getting started using the CLI](https://docs.crewai.com/v1.15.2/en/guides/crews/first-crew)
+- [CrewAI quicktstart without the CLI](https://docs.crewai.com/v1.15.2/en/concepts/agents#direct-code-definition)
