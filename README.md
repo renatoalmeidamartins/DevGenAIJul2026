@@ -62,4 +62,8 @@
 - [Responsible AI](https://aws.amazon.com/ai/responsible-ai/)
 - [Jailbreaking Every LLM With One Simple Click](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
 - [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
-- 
+- [Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails](https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/) 
+- [Actions availablin in Comprehend Medical](https://docs.aws.amazon.com/comprehend-medical/latest/api/API_Operations.html)
+- [Using comprehend to detect PII entities](https://docs.aws.amazon.com/comprehend/latest/dg/how-pii.html)
+- [What are Automated Reasoning checks in Amazon Bedrock Guardrails?](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-automated-reasoning-checks.html)
+- [Designing for the inevitable: System prompt leakage and mitigations in generative AI applications](https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/)
