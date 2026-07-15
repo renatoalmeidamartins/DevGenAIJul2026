@@ -52,3 +52,4 @@
 - [Integrations available in Langchain](https://docs.langchain.com/oss/python/integrations/providers/overview)
 - [RetrieveAngGenreate](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_agent-runtime_RetrieveAndGenerate.html), pay attention to the filters section
 - [Langchain repo](https://github.com/langchain-ai/langchain)
+- [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html) in programmatic evaluation
